@@ -1,7 +1,7 @@
 # 추가 문법 관련 설명
 ## syntax highlighter
 ### 코드
-```markdown
+`\``markdown
 ```java
 package kr.choyunjin.ssipduck;
 
@@ -11,7 +11,7 @@ class IchigayaArisa{
     }
 }
 ```
-```
+`\``
 ### 결과물
 ```java
 package kr.choyunjin.ssipduck;

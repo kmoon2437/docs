@@ -10,7 +10,7 @@ class IchigayaArisa{
         System.out.println("KASUMI!!!!!!!!!!");
     }
 }
-\```
+```
 ```
 ### 결과물
 ```java

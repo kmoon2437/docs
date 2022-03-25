@@ -21,3 +21,6 @@ ruby(bottom,top) - 루비문자 출력
     <rb>修学能力試験</rb>
     <rt>しゅうがくのうりょくしけん</rt>
 </ruby>
+\```java
+package kr.choyunjin.ssipduck;
+```

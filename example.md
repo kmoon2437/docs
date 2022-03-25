@@ -166,14 +166,14 @@ public class ToyamaKasumi{
 ```markdown
 [chamjo-image]: https://choyunjin.kr/img/KASUMI.jpg
 
-![](https://static.choyunjin.kr/images/minato_yukina.png "alt가 없는 거")
+![](https://static.choyunjin.kr/images/minato_yukina.jpg "alt가 없는 거")
 ![없데요?](https://static.choyunjin.kr/nothing "없는 거")
 ![여러분 카스아리를 파세요][chamjo-image]
 ```
 ### 결과물
 [chamjo-image]: https://choyunjin.kr/img/KASUMI.jpg
 
-![](https://static.choyunjin.kr/images/minato_yukina.png "alt가 없는 거")
+![](https://static.choyunjin.kr/images/minato_yukina.jpg "alt가 없는 거")
 ![없데요?](https://static.choyunjin.kr/nothing "없는 거")
 ![여러분 카스아리를 파세요][chamjo-image]
 

@@ -1,5 +1,4 @@
 # 추가 문법 관련 설명
-![](https://choyunjin.kr/img/KASUMI.jpg)
 ## 글자색
 ### 코드
 ```markdown

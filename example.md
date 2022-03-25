@@ -2,7 +2,8 @@
 ## syntax highlighter
 ### 코드
 ```markdown
-\```java
+<!-- 기존 마크다운 문법(```java .... ```)도 사용 가능 -->
+{{code('java',`
 package kr.choyunjin.ssipduck;
 
 class IchigayaArisa{
@@ -10,7 +11,7 @@ class IchigayaArisa{
         System.out.println("KASUMI!!!!!!!!!!");
     }
 }
-\```
+`)}}
 ```
 ### 결과물
 ```java

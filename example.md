@@ -5,7 +5,7 @@
 <#a300ff 내용>
 ```
 ### 결과물
-<span style="color:#a300ff">내용</span>
+<span style="color:#a300ff;">내용</span>
 
 ## 매크로(함수)
 ### 코드

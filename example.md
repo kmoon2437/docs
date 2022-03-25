@@ -180,16 +180,11 @@ public class ToyamaKasumi{
 ## 이미지에 링크 삽입
 ### 코드 예시
 ```markdown
-[chamjo-image]: https://choyunjin.kr/img/KASUMI.jpg
-
-![없데요?](https://static.choyunjin.kr/nothing "없는 거")
-![여러분 카스아리를 파세요][chamjo-image]
+[![얘 소개하는 나무위키 주소](https://choyunjin.kr/img/KASUMI.jpg)](https://namu.wiki/w/%ED%86%A0%EC%95%BC%EB%A7%88%20%EC%B9%B4%EC%8A%A4%EB%AF%B8)
 ```
 ### 결과물
+[![얘 소개하는 나무위키 주소](https://choyunjin.kr/img/KASUMI.jpg)](https://namu.wiki/w/%ED%86%A0%EC%95%BC%EB%A7%88%20%EC%B9%B4%EC%8A%A4%EB%AF%B8)
 [chamjo-image]: https://choyunjin.kr/img/KASUMI.jpg
-
-![없데요?](https://static.choyunjin.kr/nothing "없는 거")
-![여러분 카스아리를 파세요][chamjo-image]
 
 ## 번호가 있는 목록
 ### 코드 예시

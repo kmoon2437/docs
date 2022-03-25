@@ -1,27 +1,11 @@
 # 추가 문법 관련 설명
-## syntax highlighter
+## 글자색
 ### 코드
 ```markdown
-```java
-package kr.choyunjin.ssipduck;
-
-class IchigayaArisa{
-    public void saySomething(){
-        System.out.println("KASUMI!!!!!!!!!!");
-    }
-}
-\```
+<#a300ff 내용>
 ```
 ### 결과물
-```java
-package kr.choyunjin.ssipduck;
-
-class IchigayaArisa{
-    public void saySomething(){
-        System.out.println("KASUMI!!!!!!!!!!");
-    }
-}
-```
+<span color="a300ff">내용</span>
 
 ## 매크로(함수)
 ### 코드

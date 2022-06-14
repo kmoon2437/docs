@@ -1,3 +1,5 @@
+// 인구수는 2020년 11월 기준임
+// 인구수 출처: https://jumin.mois.go.kr
 // 중구의 인구는 을지로동을 제외했음
 // 동대문구의 인구는 청량리동을 제외했음
 // umigwan = 우미관패,backHospital = 백병원패,unified = 통합패
